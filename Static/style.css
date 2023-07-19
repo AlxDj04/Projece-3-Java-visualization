@@ -1,0 +1,9 @@
+#container {width: 550px; height: 400px; margin: 0 auto;}
+#chart { height: 80vh; }
+#options { width:550; height:400; }
+body{
+    background-color: rgb(26, 79, 122);
+    font-display: rgb(169, 192, 226);
+    font-size: xx-large;
+    font-style: oblique;
+}
